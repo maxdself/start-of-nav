@@ -110,7 +110,7 @@
 .zhehou span{ display:inline-block; margin-left:10px; color:#fff; padding:0 6px; background-color:#f70; height:20px;}
 .icoa{ margin-top:8px;}
 .cang{ float:left; width:55px; height:22px; float:left; color:#fff; line-height:22px; background-color:#f70; margin-right:14px;}
-.cang strong{ float:left; background:url(../images/ico/whole.png) no-repeat -253px 0; width:13px; height:11px; margin:6px 5px 0 6px;}
+.cang strong{ float:left; background:url(../img/whole.png) no-repeat -253px 0; width:13px; height:11px; margin:6px 5px 0 6px;}
 .cang span{ float:left;}
 
 .tejiatwo{ float:left; width:324px;}
@@ -121,5 +121,5 @@
 .tejiasma dd strong{ color:#f70;}
 
 
-.footadd{ margin-top:15px;}
-.footadd a img{ height:70px;}
+.footadd{ margin-top:15px;width: 1190px;margin: 0 auto;}
+.footadd a img{ width:1190;height:70px;}
