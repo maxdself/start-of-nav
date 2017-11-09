@@ -1,2 +1,17 @@
-.banner{width: 100%}
-.bannerimg a{display: block;background: url(../img/company1.jpg) no-repeat center;height: 385px;}
+.banner{height: 420;margin-top: 10px;position: relative;}
+.bannerimg{height: 420px;}
+.bannerimg a{display: block;background: url(../img/company1.jpg) no-repeat center top;height: 420px;}
+.bannerspan{position: absolute;bottom: 15px;left: 653px;}
+.bannerspan span{display: inline-block;width: 20px;height: 20px;border-radius: 100%;background-color: #FFFFFF;margin: 0 5px;}
+.bannerspan span:nth-of-type(2){background-color: #FF7700;cursor: pointer;}
+
+.sanji{position: absolute;top: 5px;height: 410px;width: 200px;left: 80px;}
+.company{background-color: #1D7AD9;}
+.sanjicon dl{border-bottom: 1px solid #086BD0;padding: 13px 12px;}
+.sanjicon dl dt a{font-family: "宋体";font-size: 14px;color: #fff;line-height: 26px;}
+.sanjicon dl dd a{color: #fff;line-height: 24px;margin-right: 10px;}
+.sanji a:hover{color: #FF7700;}
+
+.tuijian{position: absolute;top: 5px;height: 415px;right: 78px;}
+.tuijian dl{width: 170px;height: 183px;background-color: #fff;padding: 10px;margin-bottom:5px;text-align: center;}
+.tuijian dl dt img{width: 160px;height: 160px;}
